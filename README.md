@@ -15,4 +15,4 @@ python main.py
 ```
 
 
-Which will produce a folder called `data` with the images.
+Which will produce a folder called `data` with the images. There will be 2000+ images for `example.mp4`.
